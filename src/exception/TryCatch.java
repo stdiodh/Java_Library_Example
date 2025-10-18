@@ -1,6 +1,6 @@
 package exception;
 
-import console.view.InputView;
+import common.view.InputView;
 
 public class TryCatch {
     public static void main(String[] args){

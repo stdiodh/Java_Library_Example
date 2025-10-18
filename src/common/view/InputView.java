@@ -1,4 +1,4 @@
-package console.view;
+package common.view;
 
 import camp.nextstep.edu.missionutils.Console;
 
